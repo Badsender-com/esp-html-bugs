@@ -6,7 +6,7 @@ When importing your HTML email, the ESP will parse the content for different rea
 
 Do not hesitate to complete the list of ESPs, as well as to tell us the oddities that you have encountered in use.
 
-## [View all issues](https://github.com/Badsender-com/esp-html-issues/issues)
+## [View all issues](https://github.com/Badsender-com/esp-html-bugs/issues)
 
 ## ESPs
 
